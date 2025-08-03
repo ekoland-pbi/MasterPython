@@ -1,1 +1,1 @@
-print(type(10))
+print('hello world')
